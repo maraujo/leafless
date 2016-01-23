@@ -1,2 +1,2 @@
 # Leafless
-A fast python heuristic to calculate betwennesss centrality among tree graph
+A fast python heuristic to calculate betwennesss centrality of tree graph
